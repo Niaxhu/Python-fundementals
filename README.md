@@ -1,4 +1,4 @@
-This repository documents my learning and development throughout my MSc in Data Science and its Applications at the University of Greenwich.
+This repository documents my learning and development throughout my MSc in Data Science 
 
 It includes:
 
